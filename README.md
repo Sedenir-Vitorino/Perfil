@@ -1,40 +1,72 @@
-# 👋 Olá, eu sou Sedenir!
+# Sedenir Vitorino Portfolio
 
-🎯 Estudante de Engenharia Civil e Análise e Desenvolvimento de Sistemas  
-💡 Apaixonado por tecnologia, desenvolvimento web e soluções para engenharia.
+Portfólio profissional desenvolvido para apresentar meus serviços como Desenvolvedor Full Stack.
+
+🌐 Website: https://sedenir.dev/
+
+## Sobre
+
+Sou estudante de Engenharia Civil e Desenvolvedor Full Stack, focado na criação de sistemas web, plataformas SaaS, dashboards administrativos e soluções digitais para empresas.
+
+Meu diferencial é unir conhecimento de engenharia e processos empresariais com desenvolvimento de software para criar soluções práticas, escaláveis e voltadas para resultados.
+
+## Serviços
+
+* Desenvolvimento de Sistemas Web
+* Plataformas SaaS
+* Dashboards Administrativos
+* Sistemas Empresariais
+* Soluções para Construção Civil
+* Aplicações Personalizadas
+* APIs e Integrações
+* Consultoria Técnica
+
+## Tecnologias
+
+### Frontend
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* NestJS
+
+### Banco de Dados
+
+* PostgreSQL
+* MySQL
+
+### Infraestrutura
+
+* Docker
+* Linux
+* Nginx
+
+## Características do Projeto
+
+* Design moderno e responsivo
+* Dark Mode
+* SEO otimizado
+* Arquitetura escalável
+* Performance otimizada
+* Experiência focada em conversão
+
+## Objetivo
+
+Este portfólio foi desenvolvido para apresentar minhas habilidades, experiência e capacidade de transformar ideias em soluções digitais profissionais.
+
+## Contato
+
+Website: https://sedenir.dev/
+
+Instagram: @sedenir.dev
+
+Email: [contato@sedenir.dev](mailto:contato@sedenir.dev)
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Estudante de **Engenharia Civil** e **Análise e Desenvolvimento de Sistemas**  
-- 💻 Desenvolvedor com foco em **JavaScript, React e TypeScript**  
-- 🏗️ Criando soluções para engenharia, incluindo um **CMS personalizado para gerenciamento de conteúdo técnico**  
-- ✏️ Apaixonado por ensinar e compartilhar conhecimento sobre **cálculo, engenharia e programação**  
-- 🌍 Atualmente trabalhando em [civil-engineer-cms](https://github.com/seu-usuario/civil-engineer-cms)  
-
----
-
-## 🛠️ Tecnologias e Ferramentas  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-![Slate.js](https://img.shields.io/badge/-Slate.js-000000?style=flat&logo=slate&logoColor=white)  
-
----
-
-## 📌 Projetos em Destaque
-
-🔹 [**Civil Engineer CMS**](https://github.com/sSedenir-Vitorino/civil-engineer-cms) – Um CMS personalizado para engenharia  
-🔹 [**Sistema de Publicação de Artigos**](https://github.com/Sedenir-Vitorino/civil-engineer-site) – Plataforma gratuita para oferecer  
-
----
-
-## 📫 Contato
-
-🔗 **LinkedIn:** [linkedin.com/in/sedenir](https://linkedin.com/in/sedenir)  
-🌐 **Website:** [help-engenharia.com](https://help-engenharia.com)  
-
-Vamos conectar! 🚀
+© 2026 Sedenir Vitorino. Todos os direitos reservados.

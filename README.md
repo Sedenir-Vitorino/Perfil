@@ -65,7 +65,7 @@ Website: https://sedenir.dev/
 
 Instagram: @sedenir.dev
 
-Email: [sedenirvitorino@gmail.com](mailto:sedenirvitorino@gmail.com)
+Email: [contato@sedenir.dev](mailto:contato@sedenir.dev)
 
 ---
 
